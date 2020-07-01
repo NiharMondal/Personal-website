@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.top-banner{
+    background-image: url("backgroud-png/header-bg.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.half-width{
+    float: left;
+    padding: 20px 70px;
+    width: 40%;
+    margin: auto;
+    height: 400px;
+    
+    margin-left: 9px;
+
+}
+.color-heighlight{
+    color: #ff6347;
+}
+.fontSize{
+    font-size: 35px;
+}
+.half-width img{
+    height: 350px;
+    padding: 0;
+}
+.button-link{
+    text-decoration: none;
+    background: linear-gradient(45deg,#d1877a, rgb(209, 70, 146));
+    padding: 10px 20px;
+    color: #fff;
+    line-height: 50px;
+    
+}
+.biography{
+    background-image: url("backgroud-png/biography-bg.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.work-section{
+    background-image: url("backgroud-png/latest-work-bg.png");
+    height: 450px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.my-works{
+    height: 350px;
+    width: 32%;
+    float: left;
+    margin: auto;
+}
+.my-works img{
+    width: 100%;
+    padding: 0px 20px;
+    margin-left: 10px;
+}
+.headline{
+    text-align: center;
+    font-size: 30px;
+}
+.comments-section{
+    background-image: url("backgroud-png/footer-bg.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    width: 85%;
+    text-align: center;
+    margin: auto;
+}
+.footer-headline{
+    padding: 30px 0;
+}
+.comments{
+    width: 34%;
+    float: left;
+    margin-left: 7%;
+}
+form{
+    background-color: rgba(255,255,255,0.3);
+    height: 400px;
+    background-repeat: no-repeat;
+    width: 50%;
+    margin: auto;
+    padding: 30px 20px;
+    margin-bottom: 30px;
+}
+.email{
+    font-size: 20px;
+    width: 50%;
+}
+.message{
+    font-size: 20px;
+    padding: 100px;
+    width: 50%;
+    text-align: center;
+}
+.submit-btn{
+    font-size: 20px;
+    padding: 8px 20px;
+}
+.email-me{
+    height: 100px;
+    margin-left: 430px;
+    width: 30%;
+    background: linear-gradient(#eb3e1f, #f14486);
+    padding: 3px 20px;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: center;
+}
+footer{
+    padding: 20px;
+    text-align: center;
+}
+.colorful{
+    color: #1d0fe2;
+}
